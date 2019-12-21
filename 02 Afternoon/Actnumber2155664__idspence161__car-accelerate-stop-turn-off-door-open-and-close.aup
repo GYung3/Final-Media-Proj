@@ -1,0 +1,276 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Actnumber2155664__idspence161__car-accelerate-stop-turn-off-door-open-and-close_data" version="1.3.0" audacityversion="2.3.3" sel0="44.9764115866" sel1="44.9764115866" vpos="2192" h="20.2385053325" zoom="10.4750818560" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="FinalFinal12_19"/>
+		<tag name="TITLE" value="It&apos;s Time To Party Ladies &amp; Gentlemen"/>
+		<tag name="GENRE" value="Voice Over"/>
+		<tag name="Band" value="Sheden"/>
+	</tags>
+	<wavetrack name="drivingHome155664_idspence161_car-accelerate" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="728499">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fd96.au" len="262144" min="-0.426147" max="0.35611" rms="0.067218"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f5d4.au" len="262144" min="-0.526733" max="0.46405" rms="0.082168"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f7e1.au" len="204211" min="-0.684235" max="0.997406" rms="0.043223"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="drivingHome155664_idspence161_car-accelerate" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="728499">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fbc3.au" len="262144" min="-0.439209" max="0.382782" rms="0.067951"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f033.au" len="262144" min="-0.548492" max="0.484283" rms="0.083108"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f1c9.au" len="204211" min="-0.692322" max="0.999969" rms="0.04375"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="OpenTheFridge106489_klankontwerp_fridge" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="15.53877551" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="725620">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f101.au" len="262144" min="-0.12854" max="0.092712" rms="0.005435"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f9e0.au" len="262144" min="-0.238434" max="0.173615" rms="0.010904"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f9c7.au" len="201332" min="-0.15329" max="0.11676" rms="0.006594"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="OpenTheFridge106489_klankontwerp_fridge" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="15.53877551" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="725620">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fa97.au" len="262144" min="-0.093994" max="0.085388" rms="0.005521"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1ff61.au" len="262144" min="-0.200714" max="0.211548" rms="0.011049"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f874.au" len="201332" min="-0.125153" max="0.1185" rms="0.007234"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="radioPlaysInCar342616__rekks888__story-1" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="493525">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f06b.au" len="262144" min="-0.551727" max="0.539337" rms="0.090141"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f151.au" len="231381" min="-0.551758" max="0.539642" rms="0.083475"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="radioPlaysInCar342616__rekks888__story-1" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="493525">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1ff0c.au" len="262144" min="-0.521729" max="0.506866" rms="0.087612"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f525.au" len="231381" min="-0.522095" max="0.507202" rms="0.081131"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="tvGoesOn383202__idabrandao__television" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="22050" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="31.99274376" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="24139">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f815.au" len="24139" min="-0.998566" max="0.999969" rms="0.389312"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="TvAnnouncement371778_iamgiorgio_g2-television" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="33.08748299" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="152064">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1faf6.au" len="152064" min="-0.81813" max="0.892013" rms="0.11766"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="TvAnnouncement371778_iamgiorgio_g2-television" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="33.08748299" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="152064">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fd74.au" len="152064" min="-0.838623" max="0.77376" rms="0.118962"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="hipHop1st195666_goup-1_hip-hop-beat" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.122018" pan="-0.3" colorindex="0">
+		<waveclip offset="36.25548299" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="271591">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f9b4.au" len="262144" min="-0.810333" max="0.975281" rms="0.137466"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fd45.au" len="9447" min="-0.007019" max="0.009552" rms="0.001065"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="42.41400907" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="271591">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f9b4.au" len="262144" min="-0.810333" max="0.975281" rms="0.137466"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fd45.au" len="9447" min="-0.007019" max="0.009552" rms="0.001065"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="hipHop1st195666_goup-1_hip-hop-beat" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.122018" pan="-0.3" colorindex="0">
+		<waveclip offset="36.25548299" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="271591">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fe2b.au" len="262144" min="-0.76889" max="0.935883" rms="0.137292"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f48f.au" len="9447" min="-0.008667" max="0.008209" rms="0.001174"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="42.41400907" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="271591">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fe2b.au" len="262144" min="-0.76889" max="0.935883" rms="0.137292"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f48f.au" len="9447" min="-0.008667" max="0.008209" rms="0.001174"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="HipHopsong2162544_stafbeats_" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="48.57253515" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="232704">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f200.au" len="232704" min="-0.781414" max="0.780712" rms="0.186625"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="HipHopsong2162544_stafbeats_" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="48.57253515" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="232704">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1ffe0.au" len="232704" min="-0.781414" max="0.780712" rms="0.187184"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="331354__pfranzen__getting-dressed-super-fast (1)" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="53.84926984" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="124729">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f8ae.au" len="124729" min="-0.740875" max="0.912964" rms="0.037009"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="464995__usamah__crouching-and-getting-up-dress" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="52.21650794" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="959995">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fb0d.au" len="262144" min="-0.046143" max="0.033417" rms="0.002161"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fd20.au" len="262144" min="-0.028412" max="0.026062" rms="0.001452"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f2ca.au" len="262144" min="-0.026001" max="0.038147" rms="0.001553"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f9c3.au" len="173563" min="-0.044434" max="0.048157" rms="0.001554"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="8.263967481530" val="1.471830964088"/>
+				<controlpoint t="12.066851062834" val="1.443661928177"/>
+				<controlpoint t="14.407087112867" val="1.443661928177"/>
+				<controlpoint t="20.111412484822" val="1.063380241394"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="464995__usamah__crouching-and-getting-up-dress" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="52.21650794" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="959995">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fb3f.au" len="262144" min="-0.060028" max="0.046234" rms="0.003496"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fd6f.au" len="262144" min="-0.0354" max="0.040161" rms="0.002439"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f788.au" len="262144" min="-0.051025" max="0.057007" rms="0.002168"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f0cc.au" len="173563" min="-0.039337" max="0.029266" rms="0.001908"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="4">
+				<controlpoint t="8.263967481530" val="1.471830964088"/>
+				<controlpoint t="12.066851062834" val="1.443661928177"/>
+				<controlpoint t="14.407087112867" val="1.443661928177"/>
+				<controlpoint t="20.111412484822" val="1.063380241394"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="489556__soundcheck1__sheden-it-s-time-to-party-ladies-gentlemen" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="73.98510204" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="259200">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fd90.au" len="259200" min="-0.438991" max="1.018307" rms="0.072647"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="489556__soundcheck1__sheden-it-s-time-to-party-ladies-gentlemen" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="73.98510204" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="259200">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fab4.au" len="259200" min="-0.425562" max="1.008049" rms="0.072337"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
