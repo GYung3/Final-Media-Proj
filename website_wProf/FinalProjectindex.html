@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>p5.js example</title>
+    <script src="p5.min.js"></script>
+    <script src="sketch.js"></script>
+    <style>
+      hr{
+
+        height: 3px;
+
+      }
+    </style>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body bgcolor="GREY">
+    <h1>Happy Old Year's</h1>
+    <h2>By [Gerod]</h2>
+    <p></p>
+      Hey everyone. My webpage is based on the Eve of our national holiday
+    January 1st our "New Year". Yet a controversy. Although we live in one
+    world not everyone celebrate New Year's on the same day. But the
+    one thing we all share is the hours minutes and seconds leading up to a brand new
+    365 days. So join me as I share with you how I spend the 24 hours to the New Year coming
+    in something I like to call "Old Years"
+    <s></s>
+    <hr>
+    <!--Code for image. Can also be used for GIF-->
+
+    <img src="../images/Mycaraudio1.jpg" width="750"/>
+    <p><center>Getting in the car work bound</center></p><br>
+    <img src="../images/AtworkAudio1.jpeg"width="750"/>
+    <audio controls width="750">
+    <source src="media/Audio01_1219.wav" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <br><hr>
+
+
+    <img src="../images/GothomeGetnReadyAudio2.jpeg" alt="Getting Ready making sure my Outfitt Litt" width="750"/>
+    <p><center>Got me an outfitt on my way to meet</center></p><br>
+    <img src="../images/AtClubAudio3.jpeg"  width="750"/>
+    <audio controls width="750">
+    <source src="media/Audio02_1219.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+    <br><hr>
+
+
+    <img src="../images/TakingAflicAudio3.jpg" width="750"/>
+    <p><center>Enjoy myself and Surround Myself with Love ones</center></p><br>
+
+
+    <audio controls width="750">
+    <source src="media/Audio03_1219.wav" type="audio/mpeg">
+    Your browser does not support the audio element.
+    </audio>
+
+    <!--Code for video-->
+
+      <iframe width="750" height="315"
+
+      frameborder="0" allow="accelerometer; autoplay;
+      encrypted-media; gyroscope;"
+      allowfullscreen></iframe>
+
+
+    <!--The code for the p5 sketch can be found in sketch.js if you don't want a p5 sketch on your webpage, delete that file from the folder).-->
+    <div id="sketch-holder">
+    <script src="sketch.js">
+      const fireworks = [];
+      let gravity;
+
+      function setup() {
+        createCanvas(windowWidth, windowHeight);
+        colorMode(HSB);
+        gravity = createVector(0, 0.2);
+        stroke(255);
+        strokeWeight(4);
+        background(0);
+      }
+
+      function draw() {
+        colorMode(RGB);
+        background(0, 0, 0, 25);
+
+        if (random(1) < 0.03) {
+          fireworks.push(new Firework());
+        }
+
+        for (let i = fireworks.length - 1; i >= 0; i--) {
+          fireworks[i].update();
+          fireworks[i].show();
+
+          if (fireworks[i].done()) {
+            fireworks.splice(i, 1);
+          }
+        }
+      }
+
+    </script>
+    </div>
+    <!-- don't forget to credit CC licensed sources-->
+    <p class="credits">Credits: Smith, John. “Image Stand In” Flickr. Yahoo! Web. 7 Apr. 2011</p>
+  </body>
+</html>
